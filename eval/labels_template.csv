@@ -1,0 +1,148 @@
+﻿ta_file,item_id,item_title,requirement,importance,verdict,evidence_clause_id,notes
+TA1.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,missing,missing,no mention of HDB approval
+TA1.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,deficient ,1,no mention of start date and end date
+TA1.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,deficient ,6,"excessive late payment penalty, and missing payment frequency, amount, and methods."
+TA1.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,deficient ,5,deposit should be refunded at the end of tenancy agreement and property returned intact
+TA1.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,missing,missing,no mention of problem free period
+TA1.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,deficient ,3,tenant should only be asked to cover up to certain threshold
+TA1.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,deficient ,3,"tenant asked to cover all maintenance, but no mention of frequency and by whom."
+TA1.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,deficient ,2,Landlord should not entre the premises without notices unless emergency.
+TA1.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,missing,missing,no mention of quiet enjoyment.
+TA1.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,missing,missing,no mention of subletting
+TA1.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,missing,missing,no mention of pet policy
+TA1.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,deficient ,4,cluase does not allow for early termination under any conditions.
+TA1.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,missing,missing,no mention of inventory list
+TA1.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,missing,missing,no mention of end of tenancy obligation
+TA1.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,deficient ,1,monthly $500 dollar maintenance fee of unclear purpose
+TA1.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,missing,missing,no mention of insurance
+TA1.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,missing,missing,no mention of renovation
+TA1.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,deficient ,7,"unfair clause, tenant asked to cover all legal fees even if tenant wins."
+TA1.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,missing,missing,no mention of early termination by landlord
+TA1.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,missing,missing,no mention of visitor policy
+TA1.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,missing,missing,no mention of governing law and jurisdiction
+TA2.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,deficient ,7,governed by singapore law and HDB regulation but no explicit mention of valid passes.
+TA2.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,3,start date end date and period all present
+TA2.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,deficient ,3,frequence and amont present but no payment method mentioned
+TA2.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,deficient ,3,14 days refund mentioned but 3 months deposit is more than the 2 months norms.
+TA2.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,missing,missing,no mention of problem free period
+TA2.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,present,5,"tenant pay for small repair, 200 dollars threshold mentioned."
+TA2.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,deficient ,5,"maintenance of fixed intallation mentioned, but does not call out air con specifically."
+TA2.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,missing,missing,no mention of access notice
+TA2.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,missing,missing,no mention of quiet enjoyment.
+TA2.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,4,subletting prohibitted 
+TA2.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,present,4,no pets allowed without written approval from landload
+TA2.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,deficient ,6,"2 months notice from both party, no shorter than that for diplomatic reasons."
+TA2.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,missing,missing,no mention of inventory list
+TA2.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,deficient ,6,"return of keys, but no mention of other move out duties"
+TA2.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,present,4,tenant bears the utility bills
+TA2.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,missing,missing,no mention of insurance
+TA2.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,missing,missing,no mention of renovation
+TA2.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,deficient ,7,"small claims tribunal and courts mentioned, but no other dispute resolve process mentioned"
+TA2.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,deficient ,6,"landlord can terminate agreement for non payment, but no mention of general breach of clauses."
+TA2.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,missing,missing,no mention of visitor policy
+TA2.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,present,7,governed by singapore law.
+TA3.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,deficient ,16,valid pass mentioned but no explicit mention of singapore law or hdb regulation
+TA3.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,preamble,spaces to filled manually on the actual start date and duration
+TA3.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,deficient ,preamble;3,no mention of payment methods
+TA3.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,present,1,one month security deposit mentioned
+TA3.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,missing,missing,no mention of problem free period
+TA3.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,present,11,200 dollar threhold for minor repair mentioned
+TA3.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,present,12,landlord pays for the aircon service every 3 months
+TA3.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,missing,missing,no mention of access notice
+TA3.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,missing,missing,no mention of quiet enjoyment.
+TA3.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,9,subletting prohibitted 
+TA3.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,missing,missing,no mention of pet policy
+TA3.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,missing,missing,no mention of diplomatic break clause
+TA3.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,missing,missing,no mention of inventory list
+TA3.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,present,13,move-out duties mentioned
+TA3.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,present,5,utilities more than 80/pax is paid by tenant
+TA3.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,missing,missing,no mention of insurance
+TA3.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,present,8,no alteration of renovation with written approval from landload
+TA3.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,missing,missing,no mention of dispute resolution
+TA3.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,deficient ,4,"landlord can terminate agreement for non payment, but no mention of general breach of clauses."
+TA3.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,missing,missing,no mention of visitor policy
+TA3.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,missing,missing,no mention of governing law and jurisdiction
+TA4.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,missing,missing,no mention of HDB approval
+TA4.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,preamble,spaces to filled manually on the actual start date and duration
+TA4.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,present,preamble,spaces to filled manually on the actual start date and duration
+TA4.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,present,1,0.5 month security deposit
+TA4.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,deficient ,6,"7 days problem free period, shorter than 30 days norm"
+TA4.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,present,6,100 dollars threshold for minor repair.
+TA4.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,missing,missing,no mention of air-con maintenance
+TA4.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,missing,missing,no mention of access notice
+TA4.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,missing,missing,no mention of quiet enjoyment.
+TA4.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,10,subletting prohibitted 
+TA4.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,present,18,no pets allowed without written approval from landload
+TA4.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,deficient ,20,no early termination allowed.
+TA4.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,missing,missing,no mention of inventory list
+TA4.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,present,13,move-out duties mentioned
+TA4.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,present,5,utilities more than 150/pax is paid by tenant
+TA4.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,missing,missing,no mention of insurance
+TA4.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,present,8,no alteration of renovation with written approval from landload
+TA4.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,missing,missing,no mention of dispute resolution
+TA4.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,present,20,no early termination allowed.
+TA4.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,missing,missing,no mention of visitor policy
+TA4.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,missing,missing,no mention of governing law and jurisdiction
+TA5.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,missing,missing,no mention of HDB approval
+TA5.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,preamble;2,start date present and space for end date and period to be filled
+TA5.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,deficient ,3,"space to fill rental amount, no method mentioned"
+TA5.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,present,4,1000 dollars deposit
+TA5.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,missing,missing,no mention of problem free period
+TA5.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,deficient ,3,no threshold of minor repair
+TA5.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,missing,missing,no mention of air-con maintenance
+TA5.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,deficient ,6,no specified period for written notice
+TA5.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,missing,missing,no mention of quiet enjoyment.
+TA5.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,8,subletting prohibitted 
+TA5.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,missing,missing,no mention of pet policy
+TA5.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,deficient ,9,"minimum stay of 12 month, 1 month rent penalty if not fulfilled"
+TA5.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,missing,missing,no mention of inventory list
+TA5.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,present,10,move-out duties mentioned
+TA5.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,deficient ,3,excess usaged not defined
+TA5.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,missing,missing,no mention of insurance
+TA5.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,missing,missing,no mention of renovation
+TA5.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,missing,missing,no mention of dispute resolution
+TA5.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,deficient ,9,"one month notice for early termincation for both party, but bound by minimum 12 month stay"
+TA5.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,present,13,no visitor
+TA5.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,missing,missing,no mention of governing law and jurisdiction
+TA6.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,deficient ,2,"no mention of HDB approval, valid pass mentioned."
+TA6.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,preamble,start date end date and period all present
+TA6.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,present,preamble,"space for fill in amount, due date and method mentioned"
+TA6.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,present,1,one month deposit
+TA6.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,missing,missing,no mention of problem free period
+TA6.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,present,1,200 dollar threhold for minor repair mentioned
+TA6.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,present,2,air-con service every 3 months by landlord
+TA6.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,deficient ,1,no specified period for written notice
+TA6.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,present,3,quiet enjoyment mentioned
+TA6.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,2,subletting prohibitted 
+TA6.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,present,2,no pets allowed without written approval from landload
+TA6.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,present,5,diplomatic clause mentioned
+TA6.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,present,premable;1,inventory list mentioend
+TA6.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,present,1,move-out duties mentioned
+TA6.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,present,1,utilities included in rental
+TA6.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,present,3,insurance mentioned
+TA6.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,present,1,no renovation or alteration allowed without written approval from landlord
+TA6.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,missing,missing,no mention of dispute resolution
+TA6.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,present,2;4,early termination allowed for breach of clause
+TA6.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,present,S2.7,visitor allowed but no overnight stay
+TA6.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,present,1,complince with singapore law
+TA7.pdf,1,HDB Approval & Compliance,Agreement states lease is subject to HDB approval; tenants/occupiers must comply with HDB rules and hold valid passes (≥6 months). Landlord to provide HDB T&Cs.,CRITICAL,deficient ,2,complince with singapore laws and regulations but no explicit mention of hdb 
+TA7.pdf,2,Lease Term,Exact start and end dates; minimum 6 months term for HDB.,HIGH,present,preamble;1,start date end date and period all present
+TA7.pdf,3,Rent Payment,"Monthly rent amount; payment due date (e.g., 1st); payment method specified.",HIGH,present,1,"amount, frequency and method mentioned"
+TA7.pdf,4,Security Deposit,Deposit amount; refund period (typically 14 days after lease end); conditions for deductions; cannot use deposit for last month's rent.,HIGH,present,2,2 months deposit
+TA7.pdf,5,Problem-Free Period,Define problem-free period (typically 30 days) where landlord must rectify defects found at start.,MEDIUM,present,2,30 days problem free period
+TA7.pdf,6,Minor Repairs,"Specific cost threshold (e.g., $150–$200). Tenant pays up to threshold; landlord pays excess unless tenant at fault.",HIGH,present,2,200 dollar threhold for minor repair mentioned
+TA7.pdf,7,Air-Conditioner Maintenance,"Tenant responsible for regular servicing (e.g., quarterly) by qualified contractor at own expense; keep receipts.",MEDIUM,present,2,air-con service every 3 months by landlord
+TA7.pdf,8,Landlord Access,"Require prior written notice period (e.g., 48 hours) for inspections, repairs, or viewings (non-emergency).",HIGH,present,2,mutually agreed notice
+TA7.pdf,9,Quiet Enjoyment,Guarantee tenant's right to peaceably hold and enjoy the property without unreasonable interruption.,HIGH,present,4,quiet enjoyment mentioned
+TA7.pdf,10,Subletting,Explicitly prohibit subletting without landlord's written consent and HDB approval.,HIGH,present,2,subletting prohibitted 
+TA7.pdf,11,Pets,Address pets; require landlord consent; subject to HDB rules.,MEDIUM,present,2,no pets allowed without written approval from landload
+TA7.pdf,12,Diplomatic / Break Clause,"If applicable, specify conditions (job loss/transfer), minimum stay, notice, and compensation for early termination by tenant.",VARIABLE,present,5,diplomatic clause mentioned
+TA7.pdf,13,Inventory List & Property Condition Report,Require Inventory List (landlord) and Property Condition Report (tenant) at start; both signed.,HIGH,present,1,inventory list mentioend
+TA7.pdf,14,End of Tenancy Obligations,"Specify tenant move-out duties (condition, removal of items, professional cleaning of curtains), return of keys, utilities continuity.",HIGH,present,2,move-out duties mentioned
+TA7.pdf,15,Utilities & Service Charges,"Tenant responsible for payment of utilities (water, electricity, gas, internet) and any service charges; proof of payment may be requested.",HIGH,present,2,utilities bill borne by tenant
+TA7.pdf,16,Insurance Requirements,Tenant required to maintain renter's insurance or HDB-mandated coverage for personal belongings and liabilities.,MEDIUM,present,4,insurance mentioned
+TA7.pdf,17,Renovation / Alterations,Tenant cannot make structural alterations or major renovations without landlord's written consent and HDB approval.,HIGH,present,2,no alteration of renovation with written approval from landload
+TA7.pdf,18,Dispute Resolution,"Outline process for resolving disputes (mediation, CEA, arbitration) before legal action.",MEDIUM,missing,missing,no mention of dispute resolution
+TA7.pdf,19,Early Termination by Landlord,"Conditions under which landlord may terminate lease early (e.g., breach, sale, personal occupancy); notice period specified.",HIGH,present,3;5,early termination allowed for breach of clause
+TA7.pdf,20,Visitor Policy,"Specify rules for overnight guests, number of visitors, and HDB compliance",MEDIUM,deficient ,5,implied allowed but no explicitly called out
+TA7.pdf,21,Governing Law & Jurisdiction,Specify that lease is governed by Singapore law; disputes handled under local courts or CEA.,HIGH,present,2,comply with singapore laws and regulation

@@ -1,0 +1,32 @@
+[project]
+name = "leaseowl-v2"
+version = "2.0.0a1"
+description = "LeaseOwl v2: tenancy-agreement analysis with measured accuracy"
+requires-python = ">=3.10"
+dependencies = [
+    "pdfplumber>=0.11",
+    "pandas>=2.0",
+    "pydantic>=2.0",
+    "langchain-openai>=0.2",
+    "langchain-community>=0.3",
+    "langchain-huggingface>=0.1",
+    "langgraph>=0.2",
+    "faiss-cpu>=1.8",
+    "sentence-transformers>=3.0",
+    "streamlit>=1.38",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

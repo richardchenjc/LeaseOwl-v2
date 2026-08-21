@@ -1,0 +1,148 @@
+ta,item,importance,human,model,model_reason
+TA1.pdf,1,CRITICAL,missing,missing,"The tenancy agreement makes no reference to HDB approval, compliance with HDB rules, pass validity requirements, or HDB terms and conditions."
+TA1.pdf,2,HIGH,deficient,deficient,The agreement specifies a lease duration of 12 months but fails to provide the required exact start and end dates.
+TA1.pdf,3,HIGH,deficient,deficient,"The agreement specifies the monthly rent amount in the preamble, but fails to state the payment due date and payment method."
+TA1.pdf,4,HIGH,deficient,deficient,"The agreement states the security deposit amount in the preamble but fails to specify a refund period, valid conditions for deductions, or the prohibition against using the deposit for the last month's rent."
+TA1.pdf,5,MEDIUM,missing,missing,The agreement does not contain any provision defining a problem-free period for the landlord to rectify initial defects.
+TA1.pdf,6,HIGH,deficient,deficient,Clause 3 addresses repair liability but makes the tenant responsible for all repairs without establishing a specific cost threshold or requiring the landlord to cover the excess.
+TA1.pdf,7,MEDIUM,deficient,missing,The agreement does not contain any clause addressing air-conditioner servicing or maintenance requirements.
+TA1.pdf,8,HIGH,deficient,deficient,Clause 2 addresses landlord entry for inspections but explicitly permits entry without notice instead of requiring a prior written notice period.
+TA1.pdf,9,HIGH,missing,missing,The agreement does not contain any clause guaranteeing the tenant's right to peaceably hold and enjoy the property without unreasonable interruption.
+TA1.pdf,10,HIGH,missing,missing,The agreement does not contain any clause addressing or restricting subletting.
+TA1.pdf,11,MEDIUM,missing,missing,The tenancy agreement does not contain any terms addressing pets or animal keeping.
+TA1.pdf,12,VARIABLE,deficient,deficient,"Clause 4 addresses early termination by the tenant by forbidding it entirely, but fails to specify the required break clause conditions, minimum stay, notice period, or compensation."
+TA1.pdf,13,HIGH,missing,missing,The tenancy agreement does not contain any provisions regarding an Inventory List or a Property Condition Report.
+TA1.pdf,14,HIGH,missing,missing,"The agreement contains no terms addressing tenant move-out duties, return of keys, or utilities continuity at the end of the tenancy."
+TA1.pdf,15,HIGH,deficient,missing,"The agreement does not mention tenant responsibility for utilities (water, electricity, gas, internet) or the provision of proof of payment."
+TA1.pdf,16,MEDIUM,missing,missing,The agreement does not contain any provision requiring the tenant to maintain renter's insurance or HDB-mandated coverage.
+TA1.pdf,17,HIGH,missing,missing,"The agreement does not contain any provisions regarding tenant alterations, renovations, or required approvals."
+TA1.pdf,18,MEDIUM,deficient,missing,The agreement does not outline any process or mechanism (such as mediation or arbitration) for resolving disputes prior to legal action.
+TA1.pdf,19,HIGH,missing,missing,The agreement does not contain any provision regarding early termination by the landlord or any required notice period.
+TA1.pdf,20,MEDIUM,missing,missing,"The agreement contains no provisions regarding overnight guests, visitor limits, or HDB compliance."
+TA1.pdf,21,HIGH,missing,missing,The agreement does not specify that the lease is governed by Singapore law or that disputes are subject to local courts or CEA jurisdiction.
+TA2.pdf,1,CRITICAL,deficient,deficient,"Clause 7.1 references HDB regulations but fails to state that the lease is subject to HDB approval, that tenants must hold valid passes for at least 6 months, and that the landlord must provide HDB terms and conditions."
+TA2.pdf,2,HIGH,present,present,"The agreement specifies exact commencement and expiry dates (1st September 2025 to 31st August 2027) with a 24-month lease period, satisfying the minimum 6-month term required for HDB properties."
+TA2.pdf,3,HIGH,deficient,deficient,"The agreement specifies the monthly rent amount and payment due date, but fails to state the required payment method."
+TA2.pdf,4,HIGH,deficient,deficient,"The agreement specifies the deposit amount, refund timeline, and deduction terms, but fails to explicitly state that the security deposit cannot be used for the last month's rent."
+TA2.pdf,5,MEDIUM,missing,missing,The agreement does not contain any provision defining a problem-free period for rectifying defects found at the start of the lease.
+TA2.pdf,6,HIGH,present,deficient,The agreement includes a $200 repair threshold but fails to state that the tenant pays up to $200 and the landlord pays the excess.
+TA2.pdf,7,MEDIUM,deficient,missing,The agreement does not contain any clause addressing air-conditioner maintenance or servicing requirements.
+TA2.pdf,8,HIGH,missing,missing,"The tenancy agreement does not contain any provisions regarding landlord access or prior written notice for inspections, repairs, or viewings."
+TA2.pdf,9,HIGH,missing,missing,The agreement contains no clause or provision guaranteeing the tenant's right to quiet enjoyment or peaceable possession of the property.
+TA2.pdf,10,HIGH,present,deficient,Clause 4.6 prohibits subletting without written consent but fails to explicitly require HDB approval as stated in the requirement.
+TA2.pdf,11,MEDIUM,present,deficient,"Clause 4.4 addresses pets and requires landlord consent, but fails to specify that keeping pets is subject to HDB rules."
+TA2.pdf,12,VARIABLE,deficient,deficient,"Clause 6.1 provides a general termination notice requirement but fails to specify the required diplomatic conditions (job loss/transfer), minimum stay period, or compensation for early termination by the tenant."
+TA2.pdf,13,HIGH,missing,missing,The tenancy agreement does not make any reference to an Inventory List or a Property Condition Report.
+TA2.pdf,14,HIGH,deficient,deficient,"The agreement requires the tenant to vacate and return keys upon termination, but fails to specify move-out condition, removal of items, professional cleaning of curtains, or utilities continuity."
+TA2.pdf,15,HIGH,present,deficient,Clause 4.3 specifies that the tenant is responsible for utility bills but fails to include the requirement that proof of payment may be requested.
+TA2.pdf,16,MEDIUM,missing,missing,The agreement does not contain any clause addressing renter's insurance or coverage for personal belongings and liabilities.
+TA2.pdf,17,HIGH,missing,missing,The agreement contains no clause restricting or governing tenant alterations or major renovations.
+TA2.pdf,18,MEDIUM,deficient,deficient,"Clause 7.2 addresses dispute resolution by referring directly to the Small Claims Tribunal or courts, but fails to outline any pre-legal action process such as mediation, CEA, or arbitration."
+TA2.pdf,19,HIGH,deficient,present,"The agreement specifies conditions for early termination by the landlord, including non-payment of rent and material breaches, alongside the applicable notice periods."
+TA2.pdf,20,MEDIUM,missing,missing,The tenancy agreement does not contain any clause specifying rules for overnight guests or the allowable number of visitors.
+TA2.pdf,21,HIGH,present,present,The agreement explicitly specifies that it is governed by Singapore law and that disputes shall be resolved through local courts or the Small Claims Tribunal.
+TA3.pdf,1,CRITICAL,deficient,missing,"The agreement does not contain any provisions regarding HDB approval, compliance with HDB rules, pass validity duration requirements, or the landlord providing HDB terms and conditions."
+TA3.pdf,2,HIGH,present,deficient,The preamble addresses the lease term but lacks exact start and end dates and fails to specify the minimum 6-month requirement for HDB properties.
+TA3.pdf,3,HIGH,deficient,deficient,"The agreement specifies the rent amount and due date provision, but fails to specify any method of payment."
+TA3.pdf,4,HIGH,present,deficient,"The agreement specifies the deposit amount and deduction conditions, but fails to state a specific refund period or prohibit using the deposit for the last month's rent."
+TA3.pdf,5,MEDIUM,missing,missing,The agreement does not define or mention a problem-free period for rectifying defects found at the start of the tenancy.
+TA3.pdf,6,HIGH,present,deficient,Clause 11 sets a minor repair threshold of S$200 but fails to specify that the tenant pays up to this threshold while the landlord covers the excess.
+TA3.pdf,7,MEDIUM,present,deficient,"Clause 13 states that the landlord will provide air conditioner servicing every 3 months, which contradicts the requirement that the tenant be responsible for servicing at their own expense and keep receipts."
+TA3.pdf,8,HIGH,missing,missing,"The agreement does not contain any clause requiring prior written notice for landlord entry, inspections, repairs, or viewings."
+TA3.pdf,9,HIGH,missing,missing,The agreement does not contain any clause guaranteeing the tenant's right to peaceably hold and enjoy the property without unreasonable interruption.
+TA3.pdf,10,HIGH,present,deficient,"Clause 9 prohibits subletting without the landlord's permission, but fails to require written consent and HDB approval."
+TA3.pdf,11,MEDIUM,missing,missing,"The tenancy agreement does not contain any provisions addressing pets, landlord consent for pets, or HDB pet rules."
+TA3.pdf,12,VARIABLE,missing,missing,The agreement does not contain a diplomatic or break clause addressing early termination by the tenant.
+TA3.pdf,13,HIGH,missing,missing,The agreement contains no provision requiring an inventory list or property condition report.
+TA3.pdf,14,HIGH,present,deficient,"Clause 13 addresses tenant move-out condition and disposal, but fails to include specific stated elements such as professional cleaning of curtains, return of keys, and utilities continuity."
+TA3.pdf,15,HIGH,present,deficient,"Clause 5 addresses utilities but states rent includes water, electricity, and gas up to a cap, failing to mention internet, service charges, or the right to request proof of payment."
+TA3.pdf,16,MEDIUM,missing,missing,The agreement does not contain any provision requiring the tenant to maintain renter's insurance or coverage for personal belongings and liabilities.
+TA3.pdf,17,HIGH,present,deficient,Clause 8 addresses alterations but fails to specify written consent from the landlord and omits the requirement for HDB approval.
+TA3.pdf,18,MEDIUM,missing,missing,"The agreement does not contain any clause outlining a process for resolving disputes through mediation, CEA, or arbitration prior to legal action."
+TA3.pdf,19,HIGH,deficient,deficient,"Clause 4 addresses early termination by the landlord upon tenant breach or non-payment, but it fails to specify a clear notice period, stating that termination occurs forthwith."
+TA3.pdf,20,MEDIUM,missing,missing,"The agreement does not contain any provisions regarding visitor policy, overnight guests, number of visitors, or HDB compliance."
+TA3.pdf,21,HIGH,missing,missing,The tenancy agreement does not contain any clause specifying that the lease is governed by Singapore law or detailing dispute resolution under local courts or the CEA.
+TA4.pdf,1,CRITICAL,missing,deficient,"Clause 7 addresses pass and document verification for legal stay, but the agreement fails to state that the lease is subject to HDB approval, that passes must be valid for at least 6 months, or that the tenant must comply with HDB rules and receive HDB terms and conditions."
+TA4.pdf,2,HIGH,present,deficient,The preamble addresses the lease duration but uses unfulfilled blank placeholders for the start and end dates and fails to specify the minimum 6-month term requirement for HDB properties.
+TA4.pdf,3,HIGH,present,present,"The agreement covers the monthly rent amount in the preamble, and specifies the payment due date (first day of each calendar month) and payment method (bank account/PayNow) in Clause 3."
+TA4.pdf,4,HIGH,present,present,"The agreement specifies the deposit amount, states it cannot be used for the last month's rent, provides a 14-working-day refund timeline, and outlines conditions for deductions."
+TA4.pdf,5,MEDIUM,deficient,present,Clause 6 defines a defect-free period of seven days from the date of handover during which the landlord rectifies defects before tenant minor repair responsibilities begin.
+TA4.pdf,6,HIGH,present,present,Clause 6 specifies a minor repair threshold of $100 where the tenant pays the initial $100 and the landlord covers the excess for repairs exceeding that amount.
+TA4.pdf,7,MEDIUM,missing,missing,The agreement does not contain any clause addressing regular air-conditioner servicing or maintenance by the tenant.
+TA4.pdf,8,HIGH,missing,missing,"The tenancy agreement does not contain any clause addressing landlord access or requiring prior written notice for inspections, repairs, or viewings."
+TA4.pdf,9,HIGH,missing,missing,The agreement does not contain any landlord covenant or provision guaranteeing the tenant's right to peaceably hold and enjoy the premises without interruption.
+TA4.pdf,10,HIGH,present,deficient,"Clause 10 prohibits subletting without the landlord's written consent, but fails to require HDB approval as specified."
+TA4.pdf,11,MEDIUM,present,deficient,"Clause 18 addresses pets and requires written landlord consent, but fails to require compliance with HDB rules."
+TA4.pdf,12,VARIABLE,deficient,missing,"The agreement explicitly prohibits early termination and does not include a diplomatic or break clause specifying conditions such as job transfer, minimum stay, or notice period."
+TA4.pdf,13,HIGH,missing,missing,The tenancy agreement does not contain any provision requiring an Inventory List or a Property Condition Report to be completed and signed at the start of the tenancy.
+TA4.pdf,14,HIGH,present,deficient,"Clause 13 specifies handover condition and general cleaning upon move-out, but fails to address required elements such as item removal, professional cleaning of curtains, return of keys, and utilities continuity."
+TA4.pdf,15,HIGH,present,deficient,"Clause 5 addresses utilities but states rent includes water, electricity, and Wi-Fi up to a $150 cap, failing to make the tenant directly responsible for utilities and omitting any mention of service charges or proof of payment."
+TA4.pdf,16,MEDIUM,missing,missing,The tenancy agreement does not contain any clause requiring the tenant to maintain renter's insurance or HDB-mandated coverage.
+TA4.pdf,17,HIGH,present,deficient,"Clause 8 prohibits alterations without permission, but omits the requirement for written consent and HDB approval."
+TA4.pdf,18,MEDIUM,missing,missing,"The tenancy agreement does not outline any dispute resolution process such as mediation, CEA, or arbitration prior to legal action."
+TA4.pdf,19,HIGH,present,present,"Clause 21 specifies conditions under which the landlord may terminate the lease early (enbloc, redevelopment, or sale) along with a required two months' written notice period."
+TA4.pdf,20,MEDIUM,missing,missing,"The agreement does not contain any provisions regarding visitor rules, overnight guests, or HDB compliance."
+TA4.pdf,21,HIGH,missing,missing,The agreement does not contain any clause specifying that the lease is governed by Singapore law or how disputes will be handled.
+TA5.pdf,1,CRITICAL,missing,missing,"The agreement does not mention HDB approval, HDB rules, valid pass duration requirements, or the landlord's obligation to provide HDB terms and conditions."
+TA5.pdf,2,HIGH,present,deficient,"Clause 2 addresses the lease period but fails to provide exact start and end dates, stating they are to be confirmed upon confirmation of the tenant's working arrangement."
+TA5.pdf,3,HIGH,deficient,deficient,"Clause 3 addresses rent payment but leaves the monthly rent amount and payment due date blank, and fails to specify a payment method."
+TA5.pdf,4,HIGH,present,deficient,"Clause 4 states the deposit amount, deduction conditions, and prohibition against offsetting rent, but fails to specify a clear refund period timeframe (such as within 14 days after lease end)."
+TA5.pdf,5,MEDIUM,missing,missing,The tenancy agreement does not contain any clause defining a problem-free or defect liability period at the start of the lease.
+TA5.pdf,6,HIGH,deficient,deficient,The agreement addresses repair responsibilities but fails to state a specific monetary cost threshold or provide that the landlord pays any excess above that amount.
+TA5.pdf,7,MEDIUM,missing,missing,"The agreement specifies usage hours for the air-conditioner but does not mention any tenant obligations regarding its regular servicing, hiring a qualified contractor, or keeping receipts."
+TA5.pdf,8,HIGH,deficient,deficient,"Clause 6 permits landlord entry for viewings and repairs at reasonable times, but fails to specify a prior written notice period."
+TA5.pdf,9,HIGH,missing,missing,The tenancy agreement contains no covenant guaranteeing the tenant's right to quiet enjoyment or peaceful possession of the property without unreasonable interruption.
+TA5.pdf,10,HIGH,present,deficient,"Clause 8 explicitly prohibits subletting without the landlord's written consent, but fails to include the requirement for HDB approval."
+TA5.pdf,11,MEDIUM,missing,missing,The tenancy agreement does not contain any provision addressing pets or animal keeping.
+TA5.pdf,12,VARIABLE,deficient,deficient,"Clause 9 specifies the minimum stay, notice period, and compensation for early termination, but fails to state the required conditions such as job loss or transfer."
+TA5.pdf,13,HIGH,missing,missing,The agreement does not contain any provisions requiring an Inventory List or a Property Condition Report to be provided and signed at the start of the tenancy.
+TA5.pdf,14,HIGH,present,deficient,"While the agreement addresses yielding up the room in good condition and returning keys, it fails to mention required elements such as item removal, professional cleaning of curtains, and utilities continuity."
+TA5.pdf,15,HIGH,deficient,deficient,"Clause 3 addresses utilities and internet, but states rent is inclusive of them rather than making the tenant directly responsible for utilities, gas, service charges, and proof of payment."
+TA5.pdf,16,MEDIUM,missing,missing,The agreement does not contain any clause requiring the tenant to maintain renter's insurance or liability coverage.
+TA5.pdf,17,HIGH,missing,missing,The agreement does not contain any clause restricting the tenant from making structural alterations or major renovations.
+TA5.pdf,18,MEDIUM,missing,missing,The agreement does not contain any provisions outlining a process for dispute resolution such as mediation or arbitration.
+TA5.pdf,19,HIGH,deficient,present,"The agreement specifies conditions for landlord early termination upon tenant breach or bankruptcy under Clause 11, as well as a general one-month advance notice period under Clause 9."
+TA5.pdf,20,MEDIUM,present,deficient,"While Clause 13(1) states that no visitors are allowed, it fails to explicitly mention rules regarding overnight guests or HDB compliance."
+TA5.pdf,21,HIGH,missing,missing,The agreement does not contain any clause specifying that the lease is governed by Singapore law or detailing dispute resolution under local courts or the CEA.
+TA6.pdf,1,CRITICAL,deficient,missing,"The agreement is for a private condominium unit and contains no provisions regarding HDB approval, HDB rules, pass validity requirements, or HDB terms and conditions."
+TA6.pdf,2,HIGH,present,present,The agreement specifies exact start and end dates from 14th July 2025 to 13th July 2026 for a private condo property.
+TA6.pdf,3,HIGH,present,deficient,"The agreement specifies the payment due date and method, but leaves the monthly rent dollar amount blank."
+TA6.pdf,4,HIGH,present,present,"Clause 1(b) specifies the deposit amount, a 14-day refund timeframe, conditions for making deductions, and explicitly prohibits using the deposit to set off rent."
+TA6.pdf,5,MEDIUM,missing,missing,The tenancy agreement does not contain any provision defining a problem-free period during which the landlord is responsible for rectifying initial defects.
+TA6.pdf,6,HIGH,present,present,Clause 1(z) sets a minor repair threshold of S$200.00 where the tenant pays up to S$200 and the landlord pays the excess unless caused by tenant negligence.
+TA6.pdf,7,MEDIUM,present,deficient,Clause 1(k) places the cost of quarterly air-conditioning servicing on the Landlord rather than the Tenant and omits the requirement to keep receipts.
+TA6.pdf,8,HIGH,deficient,deficient,"The clauses require access by prior appointment, but fail to specify a written notice requirement or a specific notice period duration."
+TA6.pdf,9,HIGH,present,present,Clause 3(a) explicitly guarantees that the tenant shall peaceably hold and enjoy the room during the tenancy without interruption by the landlord.
+TA6.pdf,10,HIGH,present,deficient,"Clause 1(p) prohibits subletting without the landlord's written consent, but fails to include the requirement for HDB approval."
+TA6.pdf,11,MEDIUM,present,deficient,"Clause 1(u) addresses pets and requires landlord consent, but fails to state that keeping pets is subject to HDB rules."
+TA6.pdf,12,VARIABLE,present,missing,"The agreement does not contain a diplomatic or break clause specifying early termination conditions such as job loss or transfer, minimum stay, or notice."
+TA6.pdf,13,HIGH,present,deficient,"The agreement includes an Inventory List, but fails to require a Property Condition Report prepared by the tenant at the start of the lease."
+TA6.pdf,14,HIGH,present,deficient,"The agreement addresses move-out condition in Clause 1(w), but fails to specify required elements such as item removal, professional curtain cleaning, return of keys, and utilities continuity."
+TA6.pdf,15,HIGH,present,deficient,"The agreement addresses utilities by including them in the rent up to a cap with excess borne by occupants, but fails to make the tenant directly responsible for utilities or specify that proof of payment may be requested."
+TA6.pdf,16,MEDIUM,present,missing,The agreement does not require the tenant to maintain renter's insurance or coverage for their personal belongings and liabilities.
+TA6.pdf,17,HIGH,present,deficient,"Clause 1(m) addresses unauthorized alterations and requires the landlord's prior written consent, but fails to include the required condition for HDB approval."
+TA6.pdf,18,MEDIUM,missing,missing,"The agreement does not contain any clause outlining a dispute resolution process such as mediation, CEA, or arbitration before taking legal action."
+TA6.pdf,19,HIGH,present,present,"The agreement outlines conditions for early termination by the landlord, such as tenant default or enbloc redevelopment, along with corresponding notice terms."
+TA6.pdf,20,MEDIUM,present,deficient,The agreement addresses overnight guests but fails to specify the permitted number of visitors or include HDB compliance.
+TA6.pdf,21,HIGH,present,present,Clause 4(k) explicitly states that the lease is governed by the laws of the Republic of Singapore and that the parties submit to Singapore jurisdiction.
+TA7.pdf,1,CRITICAL,deficient,missing,"The agreement does not contain any provisions regarding HDB approval, compliance with HDB rules, pass validity duration, or the landlord providing HDB terms and conditions."
+TA7.pdf,2,HIGH,present,deficient,"Clause 1 specifies the commencement date and term duration of 24 months, but fails to state the exact end date."
+TA7.pdf,3,HIGH,present,present,"Clause 1 specifies the monthly rent of S$ 7,500, the payment due date as on or before the 22nd day of each calendar month, and the payment method via bank transfer or GIRO to the designated account."
+TA7.pdf,4,HIGH,present,present,"Clause 2(b) specifies the deposit amount, deduction conditions, a 14-day refund period after lease end, and explicitly prohibits using the deposit to set off rent."
+TA7.pdf,5,MEDIUM,present,present,"Clause 2(d) defines a 30-day defect-free period starting from the commencement or handover date, during which the landlord is responsible for rectifying any defects identified in writing by the tenant."
+TA7.pdf,6,HIGH,present,present,"Clause 2(i) sets a S$200 minor repair threshold where the tenant pays up to S$200 and the landlord covers the excess, unless caused by the tenant's negligence or wilful act."
+TA7.pdf,7,MEDIUM,present,deficient,Clause 2(j) addresses quarterly air-conditioner servicing but places the expense on the landlord rather than the tenant and omits requirements for a qualified contractor and keeping receipts.
+TA7.pdf,8,HIGH,present,deficient,"Clauses 2(m)–(o) address access for repairs and viewings by prior appointment, but fail to specify a mandatory written notice period (e.g., 48 hours)."
+TA7.pdf,9,HIGH,present,present,Clause 4(a) guarantees the tenant's right to peaceably hold and enjoy the premises during the tenancy without interruption.
+TA7.pdf,10,HIGH,present,deficient,Clause 2(p) prohibits subletting without the landlord's written consent but fails to mention the requirement for HDB approval.
+TA7.pdf,11,MEDIUM,present,deficient,"The clause addresses pets and requires landlord consent, but fails to state that keeping pets is subject to HDB rules."
+TA7.pdf,12,VARIABLE,present,present,"The agreement contains a diplomatic clause specifying the conditions for invocation, a 12-month minimum stay, a 2-month notice period, and pro-rata commission reimbursement compensation."
+TA7.pdf,13,HIGH,present,deficient,"The agreement references an attached Inventory List, but fails to require a Property Condition Report from the tenant and does not mandate that both documents be signed at the start of the tenancy."
+TA7.pdf,14,HIGH,present,deficient,"The agreement specifies move-out condition, professional curtain cleaning, and key return, but fails to address utilities continuity upon move-out."
+TA7.pdf,15,HIGH,present,deficient,"Clause 2(c) covers payment for water, electricity, gas, and telephone, but fails to explicitly include internet, service charges, or the provision that proof of payment may be requested."
+TA7.pdf,16,MEDIUM,present,deficient,"Clause 2(u) requires the tenant to insure personal chattels against loss or damage, but fails to mandate coverage for personal liabilities."
+TA7.pdf,17,HIGH,present,deficient,The agreement restricts alterations without the landlord's written consent but fails to require HDB approval as specified in the requirement.
+TA7.pdf,18,MEDIUM,missing,missing,The tenancy agreement does not contain any clause outlining a process for resolving disputes such as mediation or arbitration prior to legal action.
+TA7.pdf,19,HIGH,present,present,"The agreement outlines specific conditions under which the landlord may terminate early (such as tenant default, illegal use, or enbloc redevelopment) and includes notice requirements such as immediate termination for default and 3 months' written notice for enbloc redevelopment."
+TA7.pdf,20,MEDIUM,deficient,deficient,"The agreement addresses visitor notifications and maximum occupancy limits, but fails to specify explicit rules for overnight guests, allowed number of visitors, or HDB compliance."
+TA7.pdf,21,HIGH,present,deficient,"Clause 5(m) specifies that the agreement is governed by Singapore law, but fails to specify that disputes are to be handled under local courts or the CEA."
