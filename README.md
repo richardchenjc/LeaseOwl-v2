@@ -22,15 +22,23 @@ v2 is an audit-and-rebuild pass:
   missing with clause-level evidence), labeled blind by a single
   annotator using a documented protocol (`eval/LABELING_GUIDE.md`),
   after a pilot round that caught and fixed an annotation-tooling
-  defect. The critique engine (RAG1), which had no evaluation in v1,
-  will be scored against these labels: missing-clause detection
-  precision and recall, flag agreement, false-flag rate.
+  defect. v1 already carried a binary flagged-view evaluation of the
+  critique engine (RAG1) on the same seven TAs (TP 77, FP 38, FN 3;
+  recall 0.96, precision 0.66; v1 Documentation section 5.1). v2 extends
+  it to three-way verdicts under a written blind protocol, adds Cohen's
+  kappa, record/replay for key-free reproduction, and the error analysis
+  of the disagreements.
 - **Hygiene**: v1's requirements.txt was UTF-16 encoded (unusable by
   pip) and its checklist CSV carried encoding damage that was being fed
   into LLM prompts; both fixed. Tests and CI added; binary indexes and
   caches removed from tracking. Requires Python 3.10+.
 
 ## Measured results
+
+The v1 run (gpt-4o critique, binary flagged view) reached recall 0.96 and
+precision 0.66. The v2 run below (gemini-3.6-flash, three-way verdicts)
+reaches recall 0.96 and precision 0.64. The finding reproduces across
+models and prompts.
 
 The critique's checklist-detection capability, evaluated against the 147
 expert labels (model `gemini-3.6-flash`, one call per item, provider-
